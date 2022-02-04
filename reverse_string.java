@@ -7,7 +7,7 @@ public class Program
 		String text = scanner.nextLine();
 		char[] arr = text.toCharArray();
 		
-		//your code goes here
+		
 	
 	String reverted ="";
 	for (int i=arr.length-1;i>=0;i--) {
